@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "parser-for-job-sites"
+version = "0.1.0"
+description = ""
+authors = ["Alexandr(Serious) <sanekzh01@gmail.com>"]
+readme = "README.md"
+packages = [{include = "parser_for_job_sites"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+openpyxl = "^3.1.2"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

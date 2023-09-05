@@ -1,0 +1,200 @@
+Id: 82916369
+Vacancy Name: Инженер (Китай)
+Company Name: Восхождение
+Description: ОБЯЗАТЕЛЬНО высшее образование электронщика или бензотехника! Знание английского языка. Умение "работать руками". Критическое мышление и склонность к аналитике. 
+Salary From: 400000.0
+Salary To: 500000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/82916369
+
+Id: 84677484
+Vacancy Name: Senior Bitrix developer Full Stack / PHP разработчик
+Company Name: СТРОЙЛАНДИЯ.РУ
+Description: Пунктуальность‚ ответственность‚ внимательность и исполнительность. ТРЕБОВАНИЯ: Опыт командной <highlighttext>разработки</highlighttext> в качестве PHP-<highlighttext>разработчика</highlighttext> / Битрикс-<highlighttext>разработчика</highlighttext> от 3-х лет. 
+Salary From: 230000.0
+Salary To: 230000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/84677484
+
+Id: 85957510
+Vacancy Name: Релиз-инженер (Bitrix)
+Company Name: СТРОЙЛАНДИЯ.РУ
+Description: Системное и аналитическое мышление. Умение ставить задачи другим <highlighttext>разработчикам</highlighttext>, контролировать выполнение. Терпение, последовательность, настойчивость, исполнительность, внимательность, инициативность, способность работы в...
+Salary From: 225000.0
+Salary To: 225000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/85957510
+
+Id: 86169706
+Vacancy Name: Станочник широкого профиля
+Company Name: Консалтинг Групп
+Description: Начальное или среднее техническое образование. Умение читать чертежи (не сложные). Опыт работы за станом от 1 года. Опыт работы в...
+Salary From: 128700.0
+Salary To: 308880.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86169706
+
+Id: 84752403
+Vacancy Name: Инженер производственно-технического отдела
+Company Name: ТОП ТЕХНОЛОГИИ УРАЛА
+Description: Законченное высшее образование. Опыт работы от 2-х лет, опыт участия в строительстве крупных промышленных объектов. Умение составлять проект производства...
+Salary From: 190000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/84752403
+
+Id: 85928651
+Vacancy Name: Инженер производственно-технического отдела
+Company Name: УПМА
+Description: законченное высшее образование. -опыт работы от 2-х лет, опыт участия в строительстве крупных промышленных объектов. Умение составлять проект производства...
+Salary From: 190000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/85928651
+
+Id: 86075847
+Vacancy Name: Супервайзер по бурению
+Company Name: Инко-Сервис
+Description: Высшее образование по специальности «Бурение нефтяных и газовых скважин» или "<highlighttext>Разработка</highlighttext> нефтяных и газовых месторождений", стаж ИТР от 3х...
+Salary From: 200000.0
+Salary To: 236000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86075847
+
+Id: 81503610
+Vacancy Name: Мастер КРС
+Company Name: Сибирская Сервисная Компания
+Description: Высшее образование "<highlighttext>Разработка</highlighttext> и эксплуатация нефтегазовых месторождений" опыт работы не менее 1года. Удостоверение "Контроль скважины. Управление скважиной при ГНВП.". 
+Salary From: 0
+Salary To: 250000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/81503610
+
+Id: 84709516
+Vacancy Name: Программист 1С (удаленно)
+Company Name: СТРОЙЛАНДИЯ.РУ
+Description: Опыт успешного программирования и <highlighttext>разработки</highlighttext> на платформе «1С:Предприятие» приветствуется. Наличие сертификатов 1С уровня специалист желательно. 
+Salary From: 0
+Salary To: 250000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/84709516
+
+Id: 85106076
+Vacancy Name: Инженер КИПиА, г. Усинск (дизельные электростанции)
+Company Name: НГ-Энерго
+Description: Высшее образование (желательно электротехническое); Также рассматриваются кандидаты со средне-техническим образованием и профильным опытом работы. Желателен опыт эксплуатации в части...
+Salary From: 181000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/85106076
+
+Id: 83034255
+Vacancy Name: Машинист экскаватора (в Амурской области)
+Company Name: ССК ГАЗРЕГИОН
+Description: Опыт работы на различных грунтах (скальных, песчаных, заболоченных). Опыт в <highlighttext>разработке</highlighttext> траншей - обязательно. Знание устройства вверенной (новой) техники Hyundai и...
+Salary From: 180000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/83034255
+
+Id: 86090666
+Vacancy Name: Машинист экскаватора (г. Новый Уренгой)
+Company Name: ГЭС
+Description: Наличие подтвержденного опыта работа на строительных объектах. - Наличие удостоверения тракториста-машиниста, особая отметка машиниста экскаватора.
+Salary From: 180000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86090666
+
+Id: 84702185
+Vacancy Name: Ведущий инженер группы списания МТР
+Company Name: ГСП-2
+Description: Образование :Высшее техническое / экономическое. Уверенный пользователь :1С ЕСЦУЗ, СЭД, Word, Microsoft Excel. Опыт работы не менее 3-х лет...
+Salary From: 174000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/84702185
+
+Id: 82238729
+Vacancy Name: Машинист экскаватора Doosan/Komatsu (г. Ленск)
+Company Name: НефтеГазоТехнологии
+Description: Опыт работы машинистом экскаватора от 3-х лет. Удостоверение машиниста экскаватора. Удостоверение трактористка-машиниста категории Е. Знание правил эксплуатации, обслуживания...
+Salary From: 180000.0
+Salary To: 200000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/82238729
+
+Id: 86244208
+Vacancy Name: Слесарь МСР (в г. Казань)
+Company Name: Консалтинг Групп
+Description: Начальное или среднее техническое образование. Умение читать чертежи (не сложные). Опыт работы за станом от 1 года. Опыт работы в...
+Salary From: 108680.0
+Salary To: 260832.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86244208
+
+Id: 86213698
+Vacancy Name: Машинист автогрейдера
+Company Name: Уренгойдорстрой
+Description: Удостоверение тракториста-машиниста категории D. Свидетельство об обучении на машиниста автогрейдера 6 разряда.
+Salary From: 180000.0
+Salary To: 180000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86213698
+
+Id: 86240569
+Vacancy Name: Машинист бульдозера
+Company Name: Уренгойдорстрой
+Description: Опыт работы от 1,5 лет. Удостоверения машиниста-тракториста с открытой категорией Е. Свидетельство об обучении на курсах по специальности...
+Salary From: 180000.0
+Salary To: 180000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86240569
+
+Id: 85721916
+Vacancy Name: Геофизик ГИС
+Company Name: Сургутская Геофизическая Компания
+Description: Требуется комплексный геофизик со знаниями работ при бурении и при контроле за <highlighttext>разработкой</highlighttext>. Наличие ЕКВ. Удостоверение руководства ПВР в нефтяных...
+Salary From: 150000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/85721916
+
+Id: 86196690
+Vacancy Name: Программист 1С
+Company Name: Krovelson
+Description: Уровень знаний и навыков web-<highlighttext>разработки</highlighttext>, программирования. - <highlighttext>Разработка</highlighttext> ТЗ на доработку 1С. - Умение работать с чужим кодом. - 
+Salary From: 150000.0
+Salary To: 0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/86196690
+
+Id: 84730393
+Vacancy Name: Программист 1С в сопровождение
+Company Name: СТРОЙЛАНДИЯ.РУ
+Description: Опыт успешного программирования и <highlighttext>разработки</highlighttext> на платформе «1С:Предприятие» приветствуется. Наличие сертификатов 1С уровня профессионал, специалист желательно. 
+Salary From: 0
+Salary To: 200000.0
+Salary Currency: RUR
+Area: Оренбург
+URL: https://hh.ru/vacancy/84730393
+
